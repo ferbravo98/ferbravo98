@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Fernando Bravo</h1>
-<h3 align="center">Empleado de Farmacia | Apasionada por la Tecnología</h3>
+<h1 align="center">Hola 👋 soy Fernando Bravo</h1>
+<h3 align="center">Empleado de Farmacia | Apasionado por la Tecnología</h3>
 
 ---
 
