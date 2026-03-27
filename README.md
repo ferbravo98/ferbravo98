@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋 soy Fernando Bravo</h1>
-<h3 align="center">Empleado de Farmacia | Apasionado por la Tecnología</h3>
+<h3 align="center">Empleado de Farmacia | Analista en Sistemas</h3>
 
 ---
 
-🔬 Actualmente soy **Empleado de Farmacia**, tambien me encuentro estudiando la carrera de la Licenciatura en Informatica, cursando el 3er año de la carrera
+🔬 Actualmente soy **Empleado de Farmacia**, tambien me encuentro estudiando la carrera de la Licenciatura en Informatica, recientemente egresado de Analista de Sistemas
 
 🧪 Estoy explorando el mundo del desarrollo de software para crear soluciones prácticas en el ámbito de la salud, como apps para el control de turnos o gestión de stock.
 
