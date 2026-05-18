@@ -64,7 +64,7 @@ Actualmente continúo fortaleciendo conocimientos en:
 
 - 💼 LinkedIn: www.linkedin.com/in/fernando-nicolas-bravo-b42b54286
 - 📧 Email: bravofernando98@gmail.com
-- 🌐 Portfolio: (tu link cuando publiques GitHub Pages)
+- 🌐 Portfolio: https://ferbravo98.github.io/fernando-bravo-portfolio/
 
 ---
 
